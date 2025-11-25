@@ -4657,21 +4657,6 @@
       "liturgical_event": true
     }
   ],
-  "November 2": [
-    {
-      "obligation": false,
-      "name": "All Souls' Day",
-      "color": "Black",
-      "urls": [
-        "https://fisheaters.com/customstimeafterpentecost12ac.html",
-        "https://en.wikipedia.org/wiki/All_Souls%27_Day",
-        "https://en.wikipedia.org/wiki/Day_of_the_Dead",
-        "http://www.newadvent.org/cathen/01315b.htm"
-      ],
-      "class": 1,
-      "liturgical_event": true
-    }
-  ],
   "November 4": [
     {
       "name": "St. Charles Borromeo",

@@ -595,6 +595,18 @@
       }
     ]
   }, 
+  "All Souls' Day": {
+    "obligation": false,
+    "color": "Black",
+    "urls": [
+      "https://fisheaters.com/customstimeafterpentecost12ac.html",
+      "https://en.wikipedia.org/wiki/All_Souls%27_Day",
+      "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+      "http://www.newadvent.org/cathen/01315b.htm"
+    ],
+    "class": 1,
+    "liturgical_event": true
+  },
   "Last Sunday after Pentecost": {
     "liturgical_event": true,
     "class": 2,

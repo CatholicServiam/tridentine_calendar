@@ -900,3 +900,23 @@ class ChristTheKing(MovableFeast):
         """
         halloween = dt.date(year, 10, 31)
         return halloween - dt.timedelta((halloween.weekday() + 1) % 7)
+
+
+class AllSoulsDay(MovableFeast):
+    """Represents All Souls' Day."""
+
+    name = 'All Souls\' Day'
+
+    @functools.lru_cache()
+    def date(year):
+        """Calculate the date of All Souls' Day.
+
+        In the 1962 rubrics this falls on November 2 unless that date is a
+        Sunday, in which case it is translated to the 3rd.
+
+        """
+        return (
+            dt.date(year, 11, 2)
+            if dt.date(year, 11, 2).weekday() != 6
+            else dt.date(year, 11, 3)
+        )
