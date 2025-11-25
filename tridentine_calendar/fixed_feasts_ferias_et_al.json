@@ -128,6 +128,7 @@
         "Doctor of the Church"
       ],
       "urls": [
+        "https://fisheaters.com/stambrose.html",
         "https://en.wikipedia.org/wiki/Ambrose",
         "http://www.newadvent.org/cathen/01383c.htm"
       ],
@@ -240,7 +241,7 @@
     {
       "name": "Las Posadas",
       "urls": [
-        "https://fisheaters.com/customsadvent8.html", 
+        "https://fisheaters.com/lasposadas.html", 
         "https://en.wikipedia.org/wiki/Las_Posadas"
       ],
       "liturgical_event": false
@@ -264,6 +265,7 @@
         "Apostle"
       ],
       "urls": [
+        "https://fisheaters.com/stthomastheapostle.html",
         "https://en.wikipedia.org/wiki/Thomas_the_Apostle",
         "http://www.newadvent.org/cathen/14658b.htm"
       ],
@@ -541,6 +543,7 @@
       "name": "St. Peter's Chair",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/chairofstpeter.html",
         "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter",
         "http://www.newadvent.org/cathen/03551e.htm"
       ],
@@ -560,6 +563,14 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "Chair of Unity Octave",
+      "urls": [
+        "https://fisheaters.com/chairofunityoctave.html"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "January 19": [
@@ -585,6 +596,10 @@
         "Martyr"
       ],
       "urls": [
+        {
+          "url": "https://fisheaters.com/feastofstsebastian.html",
+          "description": "St. Sebastian"
+        },
         {
           "url": "https://en.wikipedia.org/wiki/Pope_Fabian",
           "description": "Pope Fabian"
@@ -696,6 +711,7 @@
       "name": "Conversion of St. Paul",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/conversionofstpaul.html",
         "https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle"
       ],
       "class": 3,
@@ -978,6 +994,7 @@
       "name": "The Apparition at Lourdes",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/feastofourladyoflourdes.html",
         "https://en.wikipedia.org/wiki/Lourdes_apparitions",
         "http://www.newadvent.org/cathen/09389b.htm"
       ],
@@ -1115,6 +1132,7 @@
         "Doctor of the Church"
       ],
       "urls": [
+        "https://fisheaters.com/aquinas.html",
         "https://en.wikipedia.org/wiki/Thomas_Aquinas",
         "http://www.newadvent.org/cathen/14663b.htm"
       ],
@@ -1244,6 +1262,7 @@
         "Abbot"
       ],
       "urls": [
+        "https://fisheaters.com/stbenedict.html",
         "https://en.wikipedia.org/wiki/Benedict_of_Nursia",
         "http://www.newadvent.org/cathen/02467b.htm"
       ],
@@ -1312,6 +1331,16 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Mary of Egypt",
+      "urls": [
+        "https://fisheaters.com/maryofegypt.html",
+        "https://en.wikipedia.org/wiki/Mary_of_Egypt",
+        "https://www.newadvent.org/cathen/09763a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "April 4": [
@@ -1571,6 +1600,7 @@
       "obligation": false,
       "name": "St. Catherine of Siena",
       "urls": [
+        "https://fisheaters.com/stcatherineofsiena.html",
         "https://en.wikipedia.org/wiki/Catherine_of_Siena",
         "http://www.newadvent.org/cathen/03447a.htm"
       ],
@@ -1692,6 +1722,16 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    }
+  ],
+  "May 8": [
+    {
+      "name": "The Supplica (Our Lady of Pompeii)",
+      "urls": [
+        "https://fisheaters.com/customs.html"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "May 9": [
@@ -1823,6 +1863,33 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Dymphna",
+      "titles": [
+        "Virgin",
+        "Martyr"
+      ],
+      "urls": [
+        "https://fisheaters.com/feastofstdymphna.html",
+        "https://en.wikipedia.org/wiki/Dymphna",
+        "https://www.newadvent.org/cathen/05221b.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
+    },
+    {
+      "name": "St. Isidore the Farmer",
+      "titles": [
+        "Confessor"
+      ],
+      "urls": [
+        "https://fisheaters.com/stisidorethefarmer.html",
+        "https://en.wikipedia.org/wiki/Isidore_the_Laborer",
+        "https://www.newadvent.org/cathen/08189a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "May 16": [
@@ -2113,6 +2180,7 @@
         "Martyr"
       ],
       "urls": [
+        "https://fisheaters.com/stboniface.html",
         "https://en.wikipedia.org/wiki/Saint_Boniface",
         "http://www.newadvent.org/cathen/02656a.htm"
       ],
@@ -2150,6 +2218,19 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Columba",
+      "titles": [
+        "Confessor"
+      ],
+      "urls": [
+        "https://fisheaters.com/stcolumba.html",
+        "https://en.wikipedia.org/wiki/Columba",
+        "https://www.newadvent.org/cathen/04136a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "June 10": [
@@ -2271,6 +2352,19 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Germaine Cousin",
+      "titles": [
+        "Virgin"
+      ],
+      "urls": [
+        "https://fisheaters.com/stgermainecousin.html",
+        "https://en.wikipedia.org/wiki/Germaine_Cousin",
+        "https://www.newadvent.org/cathen/06474a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "June 17": [
@@ -2457,6 +2551,7 @@
         "Apostle"
       ],
       "urls": [
+        "https://fisheaters.com/feastofsspeterandpaul.html",
         "https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul",
         "https://en.wikipedia.org/wiki/Saint_Peter",
         "https://en.wikipedia.org/wiki/Paul_the_Apostle",
@@ -2495,6 +2590,7 @@
       "name": "The Most Precious Blood",
       "color": "Red",
       "urls": [
+        "https://fisheaters.com/mostpreciousblood.html",
         "https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood",
         "https://en.wikipedia.org/wiki/Blood_of_Christ",
         {
@@ -2602,6 +2698,21 @@
       "liturgical_event": true
     }
   ],
+  "July 9": [
+    {
+      "name": "St. Thomas More",
+      "titles": [
+        "Martyr"
+      ],
+      "urls": [
+        "https://fisheaters.com/stthomasmore.html",
+        "https://en.wikipedia.org/wiki/Thomas_More",
+        "https://www.newadvent.org/cathen/14689c.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
+    }
+  ],
   "July 10": [
     {
       "name": "The Seven Holy Brothers and SS. Rufina and Secunda",
@@ -2657,6 +2768,16 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Veronica",
+      "urls": [
+        "https://fisheaters.com/stveronica.html",
+        "https://en.wikipedia.org/wiki/Saint_Veronica",
+        "https://www.newadvent.org/cathen/15362a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "July 14": [
@@ -2701,6 +2822,7 @@
       "name": "Our Lady of Mt. Carmel",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/olmtcarmel.html",
         "https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel",
         {
           "url": "http://www.newadvent.org/cathen/10604b.htm",
@@ -2879,6 +3001,7 @@
         "Mother of the Blessed Virgin Mary"
       ],
       "urls": [
+        "https://fisheaters.com/feastofstanne.html",
         "https://en.wikipedia.org/wiki/Saint_Anne",
         "http://www.newadvent.org/cathen/01538a.htm"
       ],
@@ -3035,6 +3158,7 @@
         "Confessor"
       ],
       "urls": [
+        "https://fisheaters.com/stdominic.html",
         "https://en.wikipedia.org/wiki/Saint_Dominic",
         "http://www.newadvent.org/cathen/05106a.htm"
       ],
@@ -3051,6 +3175,7 @@
         "Dedication"
       ],
       "urls": [
+        "https://fisheaters.com/ourladyofthesnows.html",
         "https://en.wikipedia.org/wiki/Dedication_of_the_Basilica_of_St_Mary_Major",
         {
           "url": "http://www.newadvent.org/cathen/11361c.htm",
@@ -3127,6 +3252,19 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "Fourteen Holy Helpers",
+      "titles": [
+        "Martyr",
+        "Virgin"
+      ],
+      "urls": [
+        "https://fisheaters.com/14holyhelpers.html",
+        "https://en.wikipedia.org/wiki/Fourteen_Holy_Helpers"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "August 9": [
@@ -3260,6 +3398,7 @@
         "Father of the Blessed Virgin Mary"
       ],
       "urls": [
+        "https://fisheaters.com/feastofstjoachim.html",
         "https://en.wikipedia.org/wiki/Joachim",
         "http://www.newadvent.org/cathen/08406b.htm"
       ],
@@ -3371,6 +3510,7 @@
       "name": "The Immaculate Heart",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/feastoftheimmaculateheart.html",
         "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary",
         {
           "url": "http://www.newadvent.org/cathen/10600a.htm",
@@ -3479,6 +3619,7 @@
         "Doctor of the Church"
       ],
       "urls": [
+        "https://fisheaters.com/feastofstaugustine.html",
         "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
         {
           "url": "http://www.newadvent.org/cathen/02084a.htm",
@@ -3578,6 +3719,7 @@
         "Confessor"
       ],
       "urls": [
+        "https://fisheaters.com/feastofkingststephen.html",
         "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary",
         {
           "url": "http://www.newadvent.org/cathen/14287a.htm",
@@ -3606,6 +3748,21 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    }
+  ],
+  "September 4": [
+    {
+      "name": "St. Rosalia",
+      "titles": [
+        "Virgin"
+      ],
+      "urls": [
+        "https://fisheaters.com/santarosalia.html",
+        "https://en.wikipedia.org/wiki/Saint_Rosalia",
+        "https://www.newadvent.org/cathen/13184a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "September 5": [
@@ -3781,6 +3938,20 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Hildegard of Bingen",
+      "color": "White",
+      "titles": [
+        "Virgin"
+      ],
+      "urls": [
+        "https://fisheaters.com/hildegardofbingen.html",
+        "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+        "https://www.newadvent.org/cathen/07351a.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "September 18": [
@@ -3881,11 +4052,19 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Pio of Pietrelcina",
+      "urls": [
+        "https://fisheaters.com/padrepio.html",
+        "https://en.wikipedia.org/wiki/Padre_Pio"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "September 24": [
     {
-      "obligation": false,
       "name": "Our Lady of Ransom",
       "color": "White",
       "urls": [
@@ -3901,7 +4080,17 @@
         }
       ],
       "class": 4,
+      "obligation": false,
       "liturgical_event": true
+    },
+    {
+      "name": "Our Lady of Walsingham",
+      "urls": [
+        "https://fisheaters.com/ourladyofwalsingham.html",
+        "https://en.wikipedia.org/wiki/Our_Lady_of_Walsingham"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "September 26": [
@@ -3920,6 +4109,22 @@
       "obligation": false,
       "class": 4,
       "liturgical_event": true
+    },
+    {
+      "name": "Canadian Martyrs",
+      "titles": [
+        "Martyr"
+      ],
+      "urls": [
+        "https://fisheaters.com/stisaacjogues.html",
+        "https://en.wikipedia.org/wiki/Canadian_Martyrs",
+        "https://en.wikipedia.org/wiki/Isaac_Jogues",
+        "https://en.wikipedia.org/wiki/Jean_de_Br%C3%A9beuf",
+        "https://www.newadvent.org/cathen/08420b.htm",
+        "https://www.newadvent.org/cathen/02751b.htm"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "September 27": [
@@ -4098,6 +4303,7 @@
       "name": "The Holy Rosary",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/feastofthemostholyrosary.html",
         "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary",
         "https://en.wikipedia.org/wiki/Rosary",
         "http://www.newadvent.org/cathen/13189a.htm",
@@ -4166,6 +4372,9 @@
       "obligation": false,
       "name": "The Motherhood of Mary",
       "color": "White",
+      "urls": [
+        "https://fisheaters.com/maternityofmary.html"
+      ],
       "class": 2,
       "liturgical_event": true
     }
@@ -4208,6 +4417,7 @@
         "Virgin"
       ],
       "urls": [
+        "https://fisheaters.com/stteresaofavila.html",
         "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
         "http://www.newadvent.org/cathen/14515b.htm"
       ],
@@ -4583,6 +4793,18 @@
       "obligation": false,
       "class": 3,
       "liturgical_event": true
+    },
+    {
+      "name": "St. Cabrini",
+      "titles": [
+        "Virgin"
+      ],
+      "urls": [
+        "https://fisheaters.com/mothercabrini.html",
+        "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+      ],
+      "obligation": false,
+      "liturgical_event": false
     }
   ],
   "November 14": [
@@ -4689,6 +4911,7 @@
         "Widow"
       ],
       "urls": [
+        "https://fisheaters.com/stelizabethofhungary.html",
         "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary",
         "http://www.newadvent.org/cathen/05389a.htm"
       ],
@@ -4718,6 +4941,7 @@
       "name": "The Presentation of Mary",
       "color": "White",
       "urls": [
+        "https://fisheaters.com/presentationoftheblessedvirginmary.html",
         "https://en.wikipedia.org/wiki/Presentation_of_Mary",
         {
           "url": "http://www.newadvent.org/cathen/12400a.htm",

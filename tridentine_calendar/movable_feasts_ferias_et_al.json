@@ -72,6 +72,7 @@
     "liturgical_event": true,
     "class": 2,
     "urls": [
+      "https://fisheaters.com/sexagesima.html",
       "https://en.wikipedia.org/wiki/Sexagesima", 
       "http://www.newadvent.org/cathen/13747a.htm"
     ]
@@ -80,6 +81,7 @@
     "liturgical_event": true,
     "class": 2,
     "urls": [
+      "https://fisheaters.com/quinquagesima.html",
       "https://en.wikipedia.org/wiki/Quinquagesima", 
       "http://www.newadvent.org/cathen/12614a.htm"
     ]
@@ -570,6 +572,12 @@
       "https://fisheaters.com/customstimeafterpentecost8.html"
     ]
   }, 
+  "The Supplica (Our Lady of Pompeii)": {
+    "liturgical_event": false,
+    "urls": [
+      "https://fisheaters.com/supplica.html"
+    ]
+  },
   "Christ the King": {
     "color": "White",
     "liturgical_event": true,

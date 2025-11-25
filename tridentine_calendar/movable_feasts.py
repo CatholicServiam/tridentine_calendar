@@ -868,6 +868,24 @@ class MichaelmasEmbertide(MovableFeast):
         return [third_sunday_in_september + dt.timedelta(i) for i in [3, 5, 6]]
 
 
+class TheSupplica(MovableFeast):
+    """Represents the Supplica"""
+
+    name = 'The Supplica (Our Lady of Pompeii)'
+
+    @functools.lru_cache()
+    def date(year):
+        """Calculate the (movable) date of the Supplica.
+
+        This falls on the first Sunday of October.
+
+        """
+        return (
+            dt.date(year, 10, 1)
+            + dt.timedelta(6 - dt.date(year, 10, 1).weekday())
+        )
+
+
 class ChristTheKing(MovableFeast):
     """Represents the Feast of Christ the King."""
 

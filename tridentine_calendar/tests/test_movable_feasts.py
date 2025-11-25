@@ -157,6 +157,9 @@ class TestMovableFeastDates(unittest.TestCase):
             [dt.date(2018, 9, 19), dt.date(2018, 9, 21), dt.date(2018, 9, 22)],
         )
 
+    def test_supplica(self):
+        self.assertEqual(mf.TheSupplica.date(2025), dt.date(2025, 10, 5))
+
     def test_christ_the_king(self):
         self.assertEqual(mf.ChristTheKing.date(2018), dt.date(2018, 10, 28))
 
