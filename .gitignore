@@ -6,7 +6,7 @@ __pycache__/
 
 /tridentine_calendar.ics
 /tridentine_calendar_marked.ics
-public/base.ics
+docs/base.ics
 
 .eggs
 .pytest_cache
