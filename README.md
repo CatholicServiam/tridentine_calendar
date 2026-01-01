@@ -1,9 +1,13 @@
-> **Note:** This fork publishes an auto-updating iCalendar (ICS) with
-> traditional fasting and abstinence indicators:
-> ✝️ Holy Days · 🐟 Abstinence · ⛔🐟 Fast & Abstinence  
+> **Fork notice:** This repository publishes an **auto-updating iCalendar (ICS)**
+> derived from the Tridentine calendar using the 1962 Roman Missal.
 >
-> Subscribe:  
-> webcal://CatholicServiam.github.io/tridentine_calendar/tridentine_calendar.ics
+> This fork adds visual indicators:
+> - ✝️ Holy Days of Obligation (1962 discipline)
+> - 🐟 Days of abstinence
+> - ⛔🐟 Days of fasting and abstinence
+>
+> Subscribe:
+> `webcal://CatholicServiam.github.io/tridentine_calendar/tridentine_calendar.ics`
 
 # Tridentine liturgical calendar calculator
 
