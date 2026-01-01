@@ -1,3 +1,10 @@
+> **Note:** This fork publishes an auto-updating iCalendar (ICS) with
+> traditional fasting and abstinence indicators:
+> ✝️ Holy Days · 🐟 Abstinence · ⛔🐟 Fast & Abstinence  
+>
+> Subscribe:  
+> webcal://CatholicServiam.github.io/tridentine_calendar/tridentine_calendar.ics
+
 # Tridentine liturgical calendar calculator
 
 This code will calculate the feasts and ferias using the 1962 Roman Catholic
