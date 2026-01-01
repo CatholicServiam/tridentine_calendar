@@ -1,6 +1,12 @@
-*.egg-info
+.venv/
+__pycache__/
 *.pyc
+*.egg-info
 *.swp
+
+tridentine_calendar.ics
+tridentine_calendar_marked.ics
+public/base.ics
 
 .eggs
 .pytest_cache
